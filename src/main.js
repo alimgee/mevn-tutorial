@@ -14,6 +14,8 @@ import CreateComponent from './components/CreateComponent.vue';
 import IndexComponent from './components/IndexComponent.vue';
 import EditComponent from './components/EditComponent.vue';
 
+// testing env vars - console.log(process.env.VUE_APP_CODE)
+
 const routes = [
   {
       name: 'home',
